@@ -415,7 +415,7 @@ async function NawBotz() {
       )
     }),
     (ryn.autoai= false),
-    (ryn.public = true),
+    (ryn.public = false),
     (ryn.sendImage = async (
       _0x415085,
       _0x43eea3,
